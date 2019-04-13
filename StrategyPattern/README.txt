@@ -7,3 +7,5 @@ GuitarBehavior.java contains GuitarBehavior interface, and all three classes tha
 SoloBehavior.java contains SoloBehavior interface, and all three classes that implement SoloBehavior.
 
 I did my best to avoid using "public" but was unsure of which visability modifier to use at some points.
+
+I want to update the assignment to allow for user selection.
